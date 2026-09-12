@@ -13,7 +13,7 @@
 
 ---
 
-Hi I'm Elias B <br>
+Hey I'm Elias ^^ <br>
 I develop Backend Solutions in Golang <br>
 Right now, I'm building my own SaaS investigations platform, helping Investigators all over the world! <br>
 I'm also interested in Cyber Security <br>
